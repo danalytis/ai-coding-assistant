@@ -6,7 +6,7 @@ A simple Python agent that can help you fix bugs, refactor, and add features to 
 
 ``` bash
 git clone https://github.com/danalytis/ai-coding-assistant.git
-cd repo-name
+cd ai-coding-assistant
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
