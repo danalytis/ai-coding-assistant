@@ -19,6 +19,12 @@ GEMINI_API_KEY=your-google-api-key-here
 ```
 ## Usage
 
-To run the agent:
+To run the agent in one-shot mode:
 ```
 python main.py "your prompt here"
+```
+To run the agent in interactive mode:
+```
+python main.py --ineractive
+```
+To see token usage in either modes use the --verbose flag.
