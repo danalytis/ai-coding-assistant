@@ -12,10 +12,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Add your Google API key to a .env file in the project root:
+Add your Google Gemini API key to a .env file in the project root:
 
 ``` 
-GOOGLE_API_KEY=your-google-api-key-here
+GEMINI_API_KEY=your-google-api-key-here
 ```
 ## Usage
 
